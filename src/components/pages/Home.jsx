@@ -2,7 +2,7 @@ import React from 'react';
 import planet from "../images/Project-Planet.png"
 import steam1 from "../images/mySteamlist1.png"
 import steam from "../images/mySteamlist.png"
-import svg from "../images/Sample-SquareSVG-generated.png"
+import stars from "../images/stars.jpg"
 
 export default function Home() {
   return (
@@ -10,6 +10,7 @@ export default function Home() {
       {/* <!-- photo / grid --> */}
       <section className="container section" id="photos">
         <div className="row">
+
           <div className="col s12 l4">
             <img src={planet} alt="" className="responsive-img materialboxed" />
           </div>
@@ -19,6 +20,7 @@ export default function Home() {
               nec, tincidunt orci.</p>
           </div>
         </div>
+
         <div className="row">
           <div className="col s12 l4 offset-l1 push-l7">
             <img src={steam1} alt="" className="responsive-img materialboxed" />
@@ -44,7 +46,7 @@ export default function Home() {
       {/* <!-- parallax --> */}
       <div className="parallax-container">
         <div className="parallax">
-          <img src="img/street.jpg" alt="" className="responsive-img" />
+          <img src={stars} alt="" className="responsive-img" />
         </div>
       </div>
 
@@ -90,7 +92,7 @@ export default function Home() {
 
       <div className="parallax-container">
         <div className="parallax">
-          <img src="img/stars.jpg" alt="" className="responsive-img" />
+          <img src={stars} alt="" className="responsive-img" />
         </div>
       </div>
 

@@ -18,12 +18,12 @@ export default function Blog() {
     <div className="container">
       <h1>Class Challenges</h1>
       <p>
-        SMU Coding Boot Camp: A rigorous curriculum taht covers a full stack: HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, progressive web apps, agile methodology, computer science, database theory, MongoDB, MySQL, Git, and more.
+        SMU Coding Boot Camp: A rigorous curriculum that covers a full stack: HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, progressive web apps, agile methodology, computer science, database theory, MongoDB, MySQL, Git, and more.
 
       </p>
       <div className="row">
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium">
             <div className="card-image">
               <img src={horiseon} />
@@ -38,7 +38,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium">
             <div className="card-image">
               <img src={passwd} />
@@ -53,7 +53,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium">
             <div className="card-image">
               <img src={quiz} />
@@ -69,7 +69,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium">
             <div className="card-image">
               <img src={workday} />
@@ -85,7 +85,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium">
             <div className="card-image">
               <img src={readmeGen} />
@@ -100,7 +100,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium">
             <div className="card-image">
               <img src={svg} />
@@ -115,7 +115,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium ">
             <div className="card-image">
               <img src={note} />
@@ -131,7 +131,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium ">
             <div className="card-image">
               <img src={employee} />
@@ -147,7 +147,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium ">
             <div className="card-image">
               <img src={eCommerce} />
@@ -163,7 +163,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium ">
             <div className="card-image">
               <img src={techBlog} />
@@ -179,7 +179,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium ">
             <div className="card-image">
               <img src={social} />
@@ -195,7 +195,7 @@ export default function Blog() {
           </div>
         </div>
 
-        <div className="col s12 m4">
+        <div className="col s12 l4">
           <div className="card medium ">
             <div className="card-image">
               <img src={pwa} />
