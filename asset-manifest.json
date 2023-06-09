@@ -1,14 +1,29 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.2cff2304.css",
-    "main.js": "/react-portfolio/static/js/main.3aa79ac5.js",
+    "main.js": "/react-portfolio/static/js/main.e22b260a.js",
+    "static/media/stars.jpg": "/react-portfolio/static/media/stars.c8c83eb67fd1279d6d97.jpg",
     "static/media/man.jpg": "/react-portfolio/static/media/man.b7a6dea2cdaef9efdbee.jpg",
+    "static/media/mySteamlist.png": "/react-portfolio/static/media/mySteamlist.cfd96ee1e9061fab76fe.png",
+    "static/media/Horiseon.png": "/react-portfolio/static/media/Horiseon.5470b3f98a320b443299.png",
+    "static/media/Project-Planet.png": "/react-portfolio/static/media/Project-Planet.fa990747ff5e61c54460.png",
+    "static/media/mySteamlist1.png": "/react-portfolio/static/media/mySteamlist1.6deb2ea5e3c30be37d65.png",
+    "static/media/ORM-E-Commerce.png": "/react-portfolio/static/media/ORM-E-Commerce.2a80543fa8a269698aa7.png",
+    "static/media/employeeTracker.png": "/react-portfolio/static/media/employeeTracker.43b121dff70b446b9f57.png",
+    "static/media/socialNetwork.png": "/react-portfolio/static/media/socialNetwork.b8eb4398dc671ac7f421.png",
+    "static/media/Quiz-Night.png": "/react-portfolio/static/media/Quiz-Night.3ac84788ce82d616e753.png",
+    "static/media/Work-Day-Scheduler.png": "/react-portfolio/static/media/Work-Day-Scheduler.7659cbfe53035ae8ac10.png",
+    "static/media/Password-Generator.png": "/react-portfolio/static/media/Password-Generator.2ec4e02672c510d7e6da.png",
+    "static/media/readmeGenerator.png": "/react-portfolio/static/media/readmeGenerator.73fcc762d8926670a551.png",
+    "static/media/noteTaker.png": "/react-portfolio/static/media/noteTaker.3ab51c605da91064ac5b.png",
+    "static/media/mvcTechBlog.png": "/react-portfolio/static/media/mvcTechBlog.234e569dd6fe221c20c5.png",
+    "static/media/pwa.png": "/react-portfolio/static/media/pwa.1e0ce2726a3e43a0e269.png",
     "index.html": "/react-portfolio/index.html",
     "main.2cff2304.css.map": "/react-portfolio/static/css/main.2cff2304.css.map",
-    "main.3aa79ac5.js.map": "/react-portfolio/static/js/main.3aa79ac5.js.map"
+    "main.e22b260a.js.map": "/react-portfolio/static/js/main.e22b260a.js.map"
   },
   "entrypoints": [
     "static/css/main.2cff2304.css",
-    "static/js/main.3aa79ac5.js"
+    "static/js/main.e22b260a.js"
   ]
 }
