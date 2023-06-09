@@ -1,4 +1,7 @@
 import React from 'react';
+import planet from "../images/Project-Planet.png"
+import steam1 from "../images/mySteamlist1.png"
+import steam from "../images/mySteamlist.png"
 import svg from "../images/Sample-SquareSVG-generated.png"
 
 export default function Home() {
@@ -8,30 +11,30 @@ export default function Home() {
       <section className="container section" id="photos">
         <div className="row">
           <div className="col s12 l4">
-            <img src="img/portrait.jpg" alt="" className="responsive-img materialboxed" />
+            <img src={planet} alt="" className="responsive-img materialboxed" />
           </div>
           <div className="col s12 l6 offset-l1">
-            <h2 className="indigo-text text-darken-4">Portraits</h2>
+            <h2 className="indigo-text text-darken-4">Project-Planet</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at lacus congue, suscipit elit
               nec, tincidunt orci.</p>
           </div>
         </div>
         <div className="row">
           <div className="col s12 l4 offset-l1 push-l7">
-            <img src="img/city.jpg" alt="" className="responsive-img materialboxed" />
+            <img src={steam1} alt="" className="responsive-img materialboxed" />
           </div>
           <div className="col s12 l6 offset-l1 pull-l5 right-align">
-            <h2 className="indigo-text text-darken-4">Cityscapes</h2>
+            <h2 className="indigo-text text-darken-4">My Steam List</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at lacus congue, suscipit elit
               nec, tincidunt orci.</p>
           </div>
         </div>
         <div className="row">
           <div className="col s12 l4">
-            <img src="img/nature.jpg" alt="" className="responsive-img materialboxed" />
+            <img src={steam} alt="" className="responsive-img materialboxed" />
           </div>
           <div className="col s12 l6 offset-l1">
-            <h2 className="indigo-text text-darken-4">Nature</h2>
+            <h2 className="indigo-text text-darken-4">Favorites Page</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at lacus congue, suscipit elit
               nec, tincidunt orci.</p>
           </div>
