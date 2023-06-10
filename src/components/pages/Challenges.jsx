@@ -26,13 +26,13 @@ export default function Challenges() {
           <div className="card medium">
             <div className="card-image">
               <img src={horiseon} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>HTML Formatting.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/SemanticHTML" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/SemanticHTML">GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -41,13 +41,13 @@ export default function Challenges() {
           <div className="card medium">
             <div className="card-image">
               <img src={passwd} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>Password Generator</p><br></br> <p>HTML, CSS, JavaScript.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/Password-Generator" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/Password-Generator">GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -56,14 +56,14 @@ export default function Challenges() {
           <div className="card medium">
             <div className="card-image">
               <img src={quiz} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>Quiz Night</p><br></br>
               <p>HTML, CSS, JavaScript.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/QuizNight" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/QuizNight">GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -73,14 +73,14 @@ export default function Challenges() {
           <div className="card medium">
             <div className="card-image">
               <img src={workday} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>Work Day Scheduler</p><br></br>
               <p>HTML, CSS, jQuery.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/Work-Day-Scheduler" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/Work-Day-Scheduler">GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -95,7 +95,7 @@ export default function Challenges() {
               <p>README Generator.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/readMeGenerator" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/readMeGenerator" >GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -104,13 +104,13 @@ export default function Challenges() {
           <div className="card medium">
             <div className="card-image">
               <img src={svg} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>SVG Logo Maker.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/SVG-Logo-Maker" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/SVG-Logo-Maker" >GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -120,14 +120,14 @@ export default function Challenges() {
           <div className="card medium ">
             <div className="card-image">
               <img src={note} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>Note Taker</p><br></br>
               <p>Express.js, JSON.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/Note-Taker" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/Note-Taker" >GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -136,14 +136,14 @@ export default function Challenges() {
           <div className="card medium ">
             <div className="card-image">
               <img src={employee} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>Employee Tracker</p><br></br>
               <p>Node.js, Inquirer, MySQL.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/SQL-Employee-Tracker" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/SQL-Employee-Tracker" >GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -152,14 +152,14 @@ export default function Challenges() {
           <div className="card medium ">
             <div className="card-image">
               <img src={eCommerce} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>Object-Relational Mapping, ORM: E-Commerce.</p><br></br>
               <p>Express.js, Sequelize, MySQL.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/E-commerce-ORM" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/E-commerce-ORM" >GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -169,14 +169,14 @@ export default function Challenges() {
           <div className="card medium ">
             <div className="card-image">
               <img src={techBlog} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>Model-View-Controller, MVC Tech Blog</p><br></br>
               <p>CMS-style blog site.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/MVC-Tech-Blog" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/MVC-Tech-Blog" >GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -185,14 +185,14 @@ export default function Challenges() {
           <div className="card medium ">
             <div className="card-image">
               <img src={social} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>Social Network</p><br></br>
               <p>Express.js, MongoDB, and Mongoose ODM.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/Social-Network-API" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/Social-Network-API" >GitHub Repo</a>
             </div>
           </div>
         </div>
@@ -201,14 +201,14 @@ export default function Challenges() {
           <div className="card medium ">
             <div className="card-image">
               <img src={pwa} />
-              {/* <span className="card-title">Card Title</span> */}
+
             </div>
             <div className="card-content">
               <p>Progressive Web Applications, PWA: Text Editor</p><br></br>
               <p>Express,js, JSON.</p>
             </div>
             <div className="card-action">
-              <a href="https://github.com/dawn-kline-m/Progressive-Web-Application" target="_blank">GitHub Repo</a>
+              <a href="https://github.com/dawn-kline-m/Progressive-Web-Application" >GitHub Repo</a>
             </div>
           </div>
         </div>
