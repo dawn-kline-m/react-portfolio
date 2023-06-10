@@ -1,7 +1,6 @@
 import React from 'react';
 import horiseon from "../images/Horiseon.png"
 import passwd from "../images/Password-Generator.png"
-import planet from "../images/Project-Planet.png"
 import quiz from "../images/Quiz-Night.png"
 import workday from "../images/Work-Day-Scheduler.png"
 import readmeGen from "../images/readmeGenerator.png"
@@ -13,17 +12,17 @@ import techBlog from "../images/mvcTechBlog.png"
 import social from "../images/socialNetwork.png"
 import pwa from "../images/pwa.png"
 
-export default function Blog() {
+export default function Challenges() {
   return (
     <div className="container">
-      <h1>Class Challenges</h1>
+      <h1>SMU Web Design Boot Camp: Class Challenges</h1>
       <p>
-        SMU Coding Boot Camp: A rigorous curriculum that covers a full stack: HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, progressive web apps, agile methodology, computer science, database theory, MongoDB, MySQL, Git, and more.
+        SMU Coding/ Web Design Boot Camp: A rigorous curriculum that covers a full stack: HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, progressive web apps, agile methodology, computer science, database theory, MongoDB, MySQL, Git, and more.
 
       </p>
       <div className="row">
 
-        <div className="col s12 l4">
+        <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
               <img src={horiseon} />
@@ -33,12 +32,12 @@ export default function Blog() {
               <p>HTML Formatting.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/SemanticHTML" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
 
-        <div className="col s12 l4">
+        <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
               <img src={passwd} />
@@ -48,12 +47,12 @@ export default function Blog() {
               <p>Password Generator</p><br></br> <p>HTML, CSS, JavaScript.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/Password-Generator" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
 
-        <div className="col s12 l4">
+        <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
               <img src={quiz} />
@@ -64,12 +63,13 @@ export default function Blog() {
               <p>HTML, CSS, JavaScript.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/QuizNight" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
-
-        <div className="col s12 l4">
+      </div>
+      <div className="row">
+        <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
               <img src={workday} />
@@ -80,12 +80,12 @@ export default function Blog() {
               <p>HTML, CSS, jQuery.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/Work-Day-Scheduler" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
 
-        <div className="col s12 l4">
+        <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
               <img src={readmeGen} />
@@ -95,12 +95,12 @@ export default function Blog() {
               <p>README Generator.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/readMeGenerator" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
 
-        <div className="col s12 l4">
+        <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
               <img src={svg} />
@@ -110,12 +110,13 @@ export default function Blog() {
               <p>SVG Logo Maker.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/SVG-Logo-Maker" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
-
-        <div className="col s12 l4">
+      </div>
+      <div className="row">
+        <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
               <img src={note} />
@@ -126,12 +127,12 @@ export default function Blog() {
               <p>Express.js, JSON.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/Note-Taker" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
 
-        <div className="col s12 l4">
+        <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
               <img src={employee} />
@@ -142,12 +143,12 @@ export default function Blog() {
               <p>Node.js, Inquirer, MySQL.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/SQL-Employee-Tracker" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
 
-        <div className="col s12 l4">
+        <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
               <img src={eCommerce} />
@@ -158,12 +159,13 @@ export default function Blog() {
               <p>Express.js, Sequelize, MySQL.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/E-commerce-ORM" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
-
-        <div className="col s12 l4">
+      </div>
+      <div className="row">
+        <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
               <img src={techBlog} />
@@ -174,12 +176,12 @@ export default function Blog() {
               <p>CMS-style blog site.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/MVC-Tech-Blog" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
 
-        <div className="col s12 l4">
+        <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
               <img src={social} />
@@ -190,12 +192,12 @@ export default function Blog() {
               <p>Express.js, MongoDB, and Mongoose ODM.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/Social-Network-API" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>
 
-        <div className="col s12 l4">
+        <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
               <img src={pwa} />
@@ -206,7 +208,7 @@ export default function Blog() {
               <p>Express,js, JSON.</p>
             </div>
             <div className="card-action">
-              <a href="#">This is a link</a>
+              <a href="https://github.com/dawn-kline-m/Progressive-Web-Application" target="_blank">GitHub Repo</a>
             </div>
           </div>
         </div>

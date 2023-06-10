@@ -16,8 +16,7 @@ export default function Home() {
           </div>
           <div className="col s12 l6 offset-l1">
             <h2 className="indigo-text text-darken-4">Project-Planet</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at lacus congue, suscipit elit
-              nec, tincidunt orci.</p>
+            <p><br></br>The focus is to help a sixth grade students learn about the planets.<br></br><br></br>The project is interactive. <br></br><br></br> The project uses two server-side APIs.<br></br><br></br> The project uses client-side storage to store persistent data. <br></br> <br></br>The project is responsive. </p>
           </div>
         </div>
 
@@ -62,23 +61,23 @@ export default function Home() {
           </div>
           <div className="col s12 l6 offset-l2">
             {/* <!-- tabs --> */}
-            <ul className="tabs">
+            {/* <ul className="tabs">
               <li className="tab col s6">
                 <a href="#photography" className="active indigo-text text-darken-4">Photography</a>
               </li>
               <li className="tab col s6">
                 <a href="#editing" className="indigo-text text-darken-4">Editing</a>
               </li>
-            </ul>
+            </ul> */}
             <div id="photography" className="col s12">
-              <p className="flow-text indigo-text text-darken-4">Photography</p>
+              <p className="flow-text indigo-text text-darken-4">Computer Programming</p>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at lacus congue, suscipit
                 elit nec, tincidunt orci.</p>
               <p>Mauris dolor augue, vulputate in pharetra ac, facilisis nec libero. Fusce condimentum gravida
                 urna, vitae scelerisque erat ornare nec.</p>
             </div>
             <div id="editing" className="col s12">
-              <p className="flow-text indigo-text text-darken-4">Editing</p>
+              <p className="flow-text indigo-text text-darken-4">Web Design</p>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at lacus congue, suscipit
                 elit nec, tincidunt orci.</p>
               <p>Mauris dolor augue, vulputate in pharetra ac, facilisis nec libero. Fusce condimentum gravida
@@ -132,13 +131,13 @@ export default function Home() {
                 <p>
                   <label>
                     <input type="checkbox" />
-                    <span>Photography</span>
+                    <span>Computer Programming</span>
                   </label>
                 </p>
                 <p>
                   <label>
                     <input type="checkbox" />
-                    <span>Photo Editing</span>
+                    <span>Web Design</span>
                   </label>
                 </p>
               </div>
