@@ -25,7 +25,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
-              <img src={horiseon} />
+              <img src={horiseon} alt="" />
 
             </div>
             <div className="card-content">
@@ -40,7 +40,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
-              <img src={passwd} />
+              <img src={passwd} alt="" />
 
             </div>
             <div className="card-content">
@@ -55,7 +55,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
-              <img src={quiz} />
+              <img src={quiz} alt="" />
 
             </div>
             <div className="card-content">
@@ -72,7 +72,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
-              <img src={workday} />
+              <img src={workday} alt="" />
 
             </div>
             <div className="card-content">
@@ -88,7 +88,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
-              <img src={readmeGen} />
+              <img src={readmeGen} alt="" />
               {/* <span className="card-title">Card Title</span> */}
             </div>
             <div className="card-content">
@@ -103,7 +103,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium">
             <div className="card-image">
-              <img src={svg} />
+              <img src={svg} alt="" />
 
             </div>
             <div className="card-content">
@@ -119,7 +119,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
-              <img src={note} />
+              <img src={note} alt="" />
 
             </div>
             <div className="card-content">
@@ -135,7 +135,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
-              <img src={employee} />
+              <img src={employee} alt="" />
 
             </div>
             <div className="card-content">
@@ -151,7 +151,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
-              <img src={eCommerce} />
+              <img src={eCommerce} alt="" />
 
             </div>
             <div className="card-content">
@@ -168,7 +168,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
-              <img src={techBlog} />
+              <img src={techBlog} alt="" />
 
             </div>
             <div className="card-content">
@@ -184,7 +184,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
-              <img src={social} />
+              <img src={social} alt="" />
 
             </div>
             <div className="card-content">
@@ -200,7 +200,7 @@ export default function Challenges() {
         <div className="col s12 m4">
           <div className="card medium ">
             <div className="card-image">
-              <img src={pwa} />
+              <img src={pwa} alt="" />
 
             </div>
             <div className="card-content">
