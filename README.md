@@ -41,7 +41,7 @@ The following animation shows the web application's appearance and functionality
 
 ## Screenshots 
 
-![Image showing challenges.](../images/challenges.png)
+![Image showing challenges.](./src/components/images/challenges.png)
 
 
 ## Deliverables
